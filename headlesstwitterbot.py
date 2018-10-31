@@ -4,9 +4,14 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
- 
+from selenium.webdriver.chrome.options import Options
+
+#Creates a headless browser
+options = Options()
+options.add_argument('--headless')
+options.add_argument('--disable-gpu')
 #Put your path here
-driver = webdriver.Chrome("/Users/meech/Desktop/chromedriver")
+driver = webdriver.Chrome("/Users/meech/Desktop/chromedriver", chrome_options=options)
 
 
 
@@ -72,12 +77,3 @@ else:
     #Waits 5 seconds before quitting the code to make sure the new username is saved
     time.sleep(5)
     quit()
-
-
-
-
-
-
-
-
-
