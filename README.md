@@ -1,4 +1,4 @@
-#Twitter New Username bot
+#Twitter Username bot
 
 
 python
