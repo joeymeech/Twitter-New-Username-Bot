@@ -6,7 +6,7 @@ python
 This is a twitter bot that will login to your account
 and try to change the username, if the username is taken it 
 will keep trying until twitter says that the username is 
-available. Once it is available it will set it to your username.
+available. Once it is available it will set it as your new username.
 
 This bot comes in two different formats, twitterbot.py is just
 the normal bot that will open a window and you can see everything 
