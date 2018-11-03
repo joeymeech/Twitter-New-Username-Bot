@@ -14,7 +14,7 @@ happen. The other headlesstwitterbot.py is the same thing but
 the browser won't pop up, this is better for just leaving it
 on in the background.
 
-Guide:
+Checklist:
 
 -Python 3 installed
 
@@ -30,6 +30,6 @@ is done by visiting
 https://chromedriver.storage.googleapis.com/index.html?path=2.43/
 and put it in the same path as your twitter bot file
 
--Enter your correct information into the .py file.
+- Correct information entered into the .py file
 
 
