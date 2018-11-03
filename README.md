@@ -14,9 +14,6 @@ happen. The other headlesstwitterbot.py is just the same thing but
 the browser won't even pop up, this is better for just leaving it
 on in the background.
 
-I personaly just used this running in the background 24/7 on my
-desktop PC and it has worked multiple times in the past.
-
 Requirments:
 
 You need python 3 installed onto your device
