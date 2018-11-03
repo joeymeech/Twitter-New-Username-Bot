@@ -10,8 +10,8 @@ available. Once it is available it will set it as your new username.
 
 This bot comes in two different formats, twitterbot.py is just
 the normal bot that will open a window and you can see everything 
-happen. The other headlesstwitterbot.py is just the same thing but
-the browser won't even pop up, this is better for just leaving it
+happen. The other headlesstwitterbot.py is the same thing but
+the browser won't pop up, this is better for just leaving it
 on in the background.
 
 Requirments:
