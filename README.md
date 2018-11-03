@@ -17,6 +17,7 @@ on in the background.
 Requirments:
 
 You need python 3 installed onto your device
+
 You need pip or some other way of installing
 modules
 You only need to install the selenium module which is done by
