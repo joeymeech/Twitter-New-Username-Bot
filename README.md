@@ -30,6 +30,6 @@ is done by visiting
 https://chromedriver.storage.googleapis.com/index.html?path=2.43/
 and put it in the same path as your twitter bot file
 
-- Correct information entered into the .py file
+-Correct information entered into the .py file
 
 
