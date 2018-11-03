@@ -14,23 +14,22 @@ happen. The other headlesstwitterbot.py is the same thing but
 the browser won't pop up, this is better for just leaving it
 on in the background.
 
-Requirments:
+Guide:
 
-You need python 3 installed onto your device
+-Python 3 installed
 
-You need pip or some other way of installing
+-Pip or some other way of installing
 modules
-You only need to install the selenium module which is done by
+
+-Install the selenium module which is done by
 typing "pip install selenium" in your terminal if you are using
 pip
 
-Next you will need to download the chrome webdriver, that
+-Download the chrome webdriver, that
 is done by visiting
 https://chromedriver.storage.googleapis.com/index.html?path=2.43/
-and downloading the right file for your os.
+and put it in the same path as your twitter bot file
 
-Lastly you need to enter your correct information into the .py file.
-I labeled what you have to change in the file so just open it up 
-with some kind of text editor and fill out your information and save
-it then you are ready to run it.
+-Enter your correct information into the .py file.
+
 
