@@ -32,4 +32,4 @@ and put it in the same path as your twitter bot file
 
 -Correct information entered into the .py file
 
-
+-Run the python file you are using in the terminal. Ex. "python /Users/meech/Desktop/twitterbot.py"
