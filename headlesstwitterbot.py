@@ -20,7 +20,7 @@ driver = webdriver.Chrome("/Users/meech/Desktop/chromedriver", chrome_options=op
 #Fill your information out here in the ''
 email = 'example@gmail.com'
 password = 'passwordhere'
-usernameyouwant = 'username'
+usernameyouwant = 'new username'
 osuser = getpass.getuser()
 
 if(1 == 1):
