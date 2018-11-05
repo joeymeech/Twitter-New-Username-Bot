@@ -14,7 +14,7 @@ driver = webdriver.Chrome("/Users/meech/Desktop/chromedriver")
 #Fill your information out here in the ''
 email = 'example@gmail.com'
 password = 'passwordhere'
-usernameyouwant = 'username'
+usernameyouwant = 'new username'
 
 
 
