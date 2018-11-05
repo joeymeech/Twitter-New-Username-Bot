@@ -2,7 +2,6 @@
 
 #Import all of these modules
 import time
-import getpass
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
  
@@ -16,28 +15,10 @@ driver = webdriver.Chrome("/Users/meech/Desktop/chromedriver")
 email = 'example@gmail.com'
 password = 'passwordhere'
 usernameyouwant = 'username'
-osuser = getpass.getuser()
-
-if(1 == 1):
-    print('Welcome ' + osuser) 
-    print(r"""
-#Twitter Bot
-  ____                 _                    __  __                _     
- |  _ \       _       | |                  |  \/  |              | |    
- | |_) |_   _(_)      | | ___   ___ _   _  | \  / | ___  ___  ___| |__  
- |  _ <| | | |    _   | |/ _ \ / _ \ | | | | |\/| |/ _ \/ _ \/ __| '_ \ 
- | |_) | |_| |_  | |__| | (_) |  __/ |_| | | |  | |  __/  __/ (__| | | |
- |____/ \__, (_)  \____/ \___/ \___|\__, | |_|  |_|\___|\___|\___|_| |_|
-         __/ |                       __/ |                              
-        |___/                       |___/                               
-
-                            
-    """)                 
 
 
 
 
-time.sleep(3)
 #Goes to the twitter login page
 driver.get("https://twitter.com/login")
 #Selects the username input box and sends the email keys to it
