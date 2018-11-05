@@ -37,7 +37,7 @@ if(1 == 1):
 
 
 
-
+time.sleep(3)
 #Goes to the twitter login page
 driver.get("https://twitter.com/login")
 #Selects the username input box and sends the email keys to it
